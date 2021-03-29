@@ -1,6 +1,8 @@
 # LocationSettingsSample
 sample for check location settings
 
+端末の位置情報設定は、`com.google.android.gms:play-services-location` ライブラリで提供される`SettingsClient`APIを使用すると互換性のある実装が可能。
+
 # API Level 30 (OS: 11)
 
 | 位置情報OFFの時 | 位置情報ONの時 |
