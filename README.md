@@ -5,7 +5,7 @@ sample for check location settings
 
 | 位置情報OFFの時 | 位置情報ONの時 |
 |:---|:---:|
-|<img src="" width=320 /> |<img src="" width=320 /> |
+|<img src="https://user-images.githubusercontent.com/16476224/112828538-c81bf100-90ca-11eb-970f-047e3c348cc0.gif" width=320 /> |<img src="https://user-images.githubusercontent.com/16476224/112828542-c9e5b480-90ca-11eb-8e9f-e449f4b7e86e.gif" width=320 /> |
 
 
 # API Level 29 (OS: 10)
