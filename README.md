@@ -4,7 +4,7 @@ The location information setting can be implemented compatiblely by using the [S
 
 # API Level 30 (OS: 11)
 
-| Location Setttings Off | On |
+| location information setting Off | On |
 |:---|:---:|
 |<img src="https://user-images.githubusercontent.com/16476224/112828538-c81bf100-90ca-11eb-970f-047e3c348cc0.gif" width=320 /> |<img src="https://user-images.githubusercontent.com/16476224/112828542-c9e5b480-90ca-11eb-8e9f-e449f4b7e86e.gif" width=320 /> |
 
